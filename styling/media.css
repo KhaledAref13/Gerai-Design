@@ -1,0 +1,422 @@
+@media (max-width: 575.98px) {
+  header {
+    height: 60px;
+    overflow: hidden;
+  }
+  .header-visible {
+    height: 235px;
+  }
+  .head {
+    align-items: flex-start;
+  }
+  .nav-link-items {
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    left: -50px;
+  }
+  .nav-link-items li {
+    margin-right: 0;
+    margin: 1rem;
+  }
+  .nav-link-items li:last-child {
+    margin-right: 1rem;
+  }
+  .toggle-icon-menu {
+    display: block;
+  }
+  .about-section {
+    padding: 1rem 0;
+  }
+  .about-title {
+    font-size: 30px;
+  }
+  .about-description {
+    width: 100%;
+    margin: auto;
+    font-size: 14px;
+    text-align: center;
+    color: var(--white-color);
+  }
+  /* pricing section */
+  .pricing-section {
+    padding: 2rem 0;
+  }
+  .pricing-title {
+    font-size: 25px;
+  }
+  .pricing-description {
+    font-size: 16px;
+    margin-bottom: 2rem;
+  }
+  .pricing-1 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-2 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-3 {
+    justify-content: center;
+  }
+  .pricing-box {
+    width: 80%;
+  }
+  .pricing-type h1 {
+    font-size: 25px;
+  }
+  .pricing-details h2 {
+    font-size: 18px;
+  }
+  .services-section {
+    padding: 2rem 0;
+  }
+  .services-box {
+    width: 80%;
+    margin-bottom: 0;
+  }
+  .circle-box {
+    width: 50px;
+    height: 50px;
+  }
+  .circle-box i {
+    font-size: 20px;
+  }
+  .services-box h1 {
+    font-size: 25px;
+    margin-top: 1rem;
+  }
+  .services-box p {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  header {
+    height: 60px;
+    overflow: hidden;
+  }
+  .header-visible {
+    height: 235px;
+  }
+  .head {
+    align-items: flex-start;
+  }
+  .nav-link-items {
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    left: -50px;
+  }
+  .nav-link-items li {
+    margin-right: 0;
+    margin: 1rem;
+  }
+  .nav-link-items li:last-child {
+    margin-right: 1rem;
+  }
+  .toggle-icon-menu {
+    display: block;
+  }
+  .about-section {
+    padding: 1rem 0;
+  }
+  .about-title {
+    font-size: 35px;
+  }
+  .about-description {
+    width: 100%;
+    margin: auto;
+    font-size: 16px;
+    text-align: center;
+    color: var(--white-color);
+  }
+  /* pricing section */
+  .pricing-section {
+    padding: 2rem 0;
+  }
+  .pricing-title {
+    font-size: 25px;
+  }
+  .pricing-description {
+    font-size: 16px;
+    margin-bottom: 2rem;
+  }
+  .pricing-1 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-2 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-3 {
+    justify-content: center;
+  }
+  .pricing-box {
+    width: 60%;
+  }
+  .pricing-type h1 {
+    font-size: 25px;
+  }
+  .pricing-details h2 {
+    font-size: 18px;
+  }
+  .services-section {
+    padding: 2rem 0;
+  }
+  .services-box {
+    width: 60%;
+    margin-bottom: 0;
+  }
+  .circle-box {
+    width: 50px;
+    height: 50px;
+  }
+  .circle-box i {
+    font-size: 20px;
+  }
+  .services-box h1 {
+    font-size: 25px;
+    margin-top: 1rem;
+  }
+  .services-box p {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  header {
+    height: 60px;
+    overflow: hidden;
+  }
+  .header-visible {
+    height: 235px;
+  }
+  .head {
+    align-items: flex-start;
+  }
+  .nav-link-items {
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    left: -50px;
+  }
+  .nav-link-items li {
+    margin-right: 0;
+    margin: 1rem;
+  }
+  .nav-link-items li:last-child {
+    margin-right: 1rem;
+  }
+  .toggle-icon-menu {
+    display: block;
+  }
+  .about-section {
+    padding: 1rem 0;
+  }
+  .about-title {
+    font-size: 35px;
+  }
+  .about-description {
+    width: 100%;
+    margin: auto;
+    font-size: 18px;
+    text-align: center;
+    color: var(--white-color);
+  }
+  /* pricing section */
+  .pricing-section {
+    padding: 2rem 0;
+  }
+  .pricing-title {
+    font-size: 25px;
+  }
+  .pricing-description {
+    font-size: 16px;
+    margin-bottom: 2rem;
+  }
+  .pricing-1 {
+    justify-content: flex-end;
+    margin-bottom: 2rem;
+  }
+  .pricing-2 {
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+  }
+  .pricing-3 {
+    justify-content: center;
+    margin: auto;
+  }
+  .pricing-box {
+    width: 80%;
+  }
+  .pricing-type h1 {
+    font-size: 25px;
+  }
+  .pricing-details h2 {
+    font-size: 18px;
+  }
+  .services-section {
+    padding: 2rem 0;
+  }
+  .services-box {
+    width: 80%;
+    margin-bottom: 0;
+  }
+  .circle-box {
+    width: 50px;
+    height: 50px;
+  }
+  .circle-box i {
+    font-size: 20px;
+  }
+  .services-box h1 {
+    font-size: 25px;
+    margin-top: 1rem;
+  }
+  .services-box p {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .about-section {
+    padding: 2rem 0;
+  }
+  .about-title {
+    font-size: 40px;
+  }
+  .about-description {
+    width: 50%;
+    margin: auto;
+    font-size: 18px;
+    text-align: center;
+    color: var(--white-color);
+  }
+  /* pricing section */
+  .pricing-section {
+    padding: 2rem 0;
+  }
+  .pricing-title {
+    font-size: 30px;
+  }
+  .pricing-description {
+    font-size: 18px;
+    margin-bottom: 2rem;
+  }
+  .pricing-1 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-2 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-3 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-box {
+    width: 90%;
+  }
+  .pricing-type h1 {
+    font-size: 25px;
+  }
+  .pricing-details h2 {
+    font-size: 18px;
+  }
+  .services-section {
+    padding: 2rem 0;
+  }
+  .services-box {
+    width: 90%;
+    margin-bottom: 0;
+  }
+  .circle-box {
+    width: 50px;
+    height: 50px;
+  }
+  .circle-box i {
+    font-size: 20px;
+  }
+  .services-box h1 {
+    font-size: 25px;
+    margin-top: 1rem;
+  }
+  .services-box p {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .about-section {
+    padding: 3rem 0;
+  }
+  .about-title {
+    font-size: 70px;
+  }
+  .about-description {
+    width: 50%;
+    margin: auto;
+    font-size: 18px;
+    text-align: center;
+    color: var(--white-color);
+  }
+  /* pricing section */
+  .pricing-section {
+    padding: 2rem 0;
+  }
+  .pricing-title {
+    font-size: 30px;
+  }
+  .pricing-description {
+    font-size: 18px;
+    margin-bottom: 2rem;
+  }
+  .pricing-1 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-2 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-3 {
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .pricing-box {
+    width: 90%;
+  }
+  .pricing-type h1 {
+    font-size: 25px;
+  }
+  .pricing-details h2 {
+    font-size: 18px;
+  }
+  .services-box {
+    width: 90%;
+    margin-bottom: 0;
+  }
+  .circle-box {
+    width: 50px;
+    height: 50px;
+  }
+  .circle-box i {
+    font-size: 20px;
+  }
+  .services-box h1 {
+    font-size: 25px;
+    margin-top: 1rem;
+  }
+  .services-box p {
+    font-size: 14px;
+  }
+}
+@media (min-width: 1400px) {
+}
